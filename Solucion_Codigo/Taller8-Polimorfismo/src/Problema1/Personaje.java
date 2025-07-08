@@ -1,4 +1,4 @@
-package juegoderoles;
+package Problema1;
 
 public abstract class Personaje {
     protected String nombre;

@@ -1,5 +1,5 @@
 
-package juegoderoles;
+package Problema1;
 
 public class Guerrero extends Personaje {
     public Guerrero(String nombre) {
